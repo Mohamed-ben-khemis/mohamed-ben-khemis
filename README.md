@@ -56,7 +56,7 @@
     <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/> 
   </a>
   <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"> 
-    <img src="https://cncf-branding.netlify.app/img/projects/argo/stacked/color/argo-stacked-color.svg" alt="argocd" width="40" height="40"/> 
+    <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="argocd" width="40" height="40"/> 
   </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" alt="github-actions" width="40" height="40"/> 
